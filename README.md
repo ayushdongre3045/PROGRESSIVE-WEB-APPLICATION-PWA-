@@ -10,3 +10,4 @@ The task is to design and develop a Progressive Web Application (PWA) that provi
 Fully functional and installable PWA (deployed)
 GitHub repo with source code
 Short documentation explaining PWA features and setup
+*OUTPUT* ![Image](https://github.com/user-attachments/assets/4728e466-1351-435a-995c-8770243cb528)
